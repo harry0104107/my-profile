@@ -1,0 +1,30 @@
+body{
+background-color: lightcyan;
+color: purple;
+font-family: Courier,serif;
+font-weight: 150;
+							}
+
+h1,h2{
+
+	font-weight: bold;
+	font-family: helvetica;
+	font-weight: lighter;
+
+}
+h1{
+	color: green;
+	
+	font-size: 40px;
+											}
+
+h2{
+	color: pink;
+	
+	font-size: 32px;
+	
+											}
+a{text-decoration: none;
+color: red;}
+a:hover{color:black;}
+
